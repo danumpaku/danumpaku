@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel (@danumpaku)
 - 👀 I’m interested in web development with React, Vue and C#/.Net and java, and cloud services
-- 🌱 I’m currently learning React and AWS
+- 🌱 I’m currently learning about Azure
 - 💞️ I’m looking to collaborate on proyects that allow me to grow in front end technologies
 - 📫 How to reach me: send a email to danumpaku@outlook.com
 
